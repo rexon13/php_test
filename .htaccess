@@ -1,0 +1,5 @@
+# Настройки .htaccess
+Options Indexes FollowSymLinks
+DirectoryIndex index.php
+# Настройки php
+#php_flag short_open_tag off
